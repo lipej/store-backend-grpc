@@ -1,0 +1,6 @@
+{
+  "collection": "@nestjs/schematics",
+  "assets": ["**/*.proto"],
+  "sourceRoot": "src",
+  "watchAssets": true
+}
